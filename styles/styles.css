@@ -1,0 +1,24 @@
+.container{
+  padding: 150px;
+}
+h1 {
+  font: 400 80px/1.2 'Nixie One', Georgia, serif;
+  color: #579ebb;
+}
+
+.about {
+    font: 400 15px/1.6 'Ledger', Garamond, Georgia, serif;
+    display: flex;
+}
+
+.footer {
+    font: 400 12px/1.6 'Ledger', Garamond, Georgia, serif;
+    color: #a6a6a6;
+    /*display: flex;*/
+    position: absolute;
+    text-align: center;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 0;
+}
