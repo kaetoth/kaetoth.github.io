@@ -67,19 +67,6 @@ a, a.button:visited
 
 }
 
-.btn {
-  position: relative;
-  bottom: 0;
-  width: 200px;
-  padding: 15px;
-  background: #579ebb;
-  border-radius: 25px;
-  display: block;
-  font-family: 'Nixie One', Georgia, serif;
-  font-size: 1.2rem;
-  font-weight: bold;
-  margin-bottom: 8px;
-}
 
 /* TIMELINE SECTION –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
